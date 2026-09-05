@@ -5,14 +5,14 @@
   <br />
 
   <a href="https://github.com/SanvithGG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Building+Scalable+Web+Applications" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://github.com/SanvithGG">
       <img src="https://komarev.com/ghpvc/?username=SanvithGG&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-success?style=flat-square&color=22c55e" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-success?style=flat-square&color=22c55e" alt="Status" />
   </p>
 
 </div>
@@ -21,39 +21,51 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Focus**: Building reliable, scalable full-stack web applications with modern architectures and clean design principles.
-- ⚡ **Core Strengths**: Strong backend expertise in **Spring Boot** & **Spring Security/JWT**, paired with **React** and **JavaScript** on the frontend.
-- 🗄️ **Data & Engineering**: Designing relational schemas and writing performant queries with **MySQL**.
+- 🔭 **Focus**: Engineering full-stack web applications with robust **Spring Boot 3** architectures and responsive **React / TypeScript** frontends.
+- ⚡ **Backend & Security**: Designing secure REST APIs, role-based access control with **Spring Security & JWT**, and schema versioning via **Flyway**.
+- 🗄️ **Data & Modeling**: Relational database architecture, normalized schema design, and query optimization in **MySQL**.
 - 📬 **Reach Out**: Drop an email at [sanvithgowda1@gmail.com](mailto:sanvithgowda1@gmail.com).
 
 ---
 
-### 🚀 Flagship Project
+### 🚀 Featured Projects
 
-#### 🌟 **[Smart Forms](https://github.com/SanvithGG/smart-forms)**
-> **A dynamic form builder featuring DAG-based conditional logic, built with Spring Boot 3 and React/TypeScript.**
-
-- **Architecture & Highlights**: Uses Directed Acyclic Graph (DAG) logic to validate and evaluate complex multi-step form dependency rules in real time.
-- **Backend**: Spring Boot 3, Spring Security, JWT, MySQL
-- **Frontend**: React.js, TypeScript
+#### 🌟 **[Smart Forms](https://github.com/SanvithGG/smart-forms)** *(Flagship)*
+> **Typeform-style branching form builder with a DAG-based conditional logic engine, built end-to-end with Spring Boot 3 backend (JWT auth, Flyway migrations) and React/TypeScript frontend.**
+- **Architecture**: Evaluates multi-step form branching dynamically using Directed Acyclic Graph (DAG) validation to guarantee cycle-free conditional paths.
+- **Tech Stack**: `Spring Boot 3` `Spring Security` `JWT` `Flyway` `MySQL` `React` `TypeScript`
 
 ---
 
-### 🛠️ Tech Stack & Core Skills
+#### 🛒 **[Smart Grocery](https://github.com/SanvithGG/smart-grocery)**
+> **Full-stack grocery management system with JWT authentication, inventory lifecycle tracking, and automated low-stock notifications.**
+- **Tech Stack**: `JavaScript` `Node.js` `JWT` `MySQL` `Full-Stack`
+
+---
+
+#### 🏨 **[Hotel Management System](https://github.com/SanvithGG/Hotel-Management-System)**
+> **Centralized hotel administration portal managing real-time room availability, reservations, and guest check-in workflows.**
+- **Tech Stack**: `JavaScript` `HTML5` `CSS3` `Full-Stack`
+
+---
+
+### 🛠️ Core Tech Stack
 
 <div align="center">
 
-#### ⚡ Backend & Security
+#### ⚡ Backend & Architecture
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Flyway-CC0202?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
 </p>
 
 #### 🌐 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -98,6 +110,9 @@
   </a>
   <a href="https://github.com/SanvithGG">
     <img src="https://img.shields.io/badge/GitHub-SanvithGG-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/sanvith-gowda">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanvith%20Gowda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
