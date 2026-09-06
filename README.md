@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Sanvith%20Gowda&fontSize=50&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/SanvithGG/SanvithGG/main/assets/dolphin-banner.svg" width="100%" alt="Sanvith Gowda - Dolphin Swimming Banner" />
 
   <br />
 
