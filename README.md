@@ -1,16 +1,16 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/SanvithGG/SanvithGG/main/assets/dolphin-banner.svg" width="100%" alt="Sanvith Gowda - Dolphin Swimming Banner" />
+  <img src="https://raw.githubusercontent.com/SanvithGG/SanvithGG/main/assets/header-banner.svg" width="100%" alt="Sanvith Gowda - Full-Stack Developer Banner" />
 
   <br />
 
   <a href="https://github.com/SanvithGG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Building+Scalable+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D2FF&center=true&vCenter=true&width=480&lines=Full-Stack+Web+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+TypeScript;Building+Scalable+Web+Applications" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://github.com/SanvithGG">
-      <img src="https://komarev.com/ghpvc/?username=SanvithGG&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=SanvithGG&label=Profile%20Views&color=00d2ff&style=flat-square" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-success?style=flat-square&color=22c55e" alt="Status" />
   </p>
@@ -119,5 +119,5 @@
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://raw.githubusercontent.com/SanvithGG/SanvithGG/main/assets/footer-banner.svg" width="100%" alt="Footer Banner" />
 </div>
